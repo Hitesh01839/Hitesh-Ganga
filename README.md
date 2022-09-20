@@ -1,5 +1,5 @@
-Currently a student
-CS | Cybersecurity
+Currently a student \
+CS | Cybersecurity \
 instagram @hitesh_ganga
 
 <!---
