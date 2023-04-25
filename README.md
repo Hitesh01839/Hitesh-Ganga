@@ -1,6 +1,5 @@
 Currently a student \
 CS | Cybersecurity \
-instagram @hitesh_ganga
 
 <!---
 Hitesh01839/Hitesh01839 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
