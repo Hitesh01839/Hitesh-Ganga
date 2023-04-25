@@ -1,6 +1,6 @@
 Currently a student \
 CS | Cybersecurity \
-Listen's to music 16 hours a day😁.
+Listen to music 16 hours a day😁.
 
 <!---
 Hitesh01839/Hitesh01839 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
