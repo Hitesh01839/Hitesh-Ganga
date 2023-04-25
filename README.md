@@ -1,3 +1,7 @@
+# Hi there 👋
+
+## 🚀 I am Hitesh Ganga a wannabe software engineer.
+
 Currently a student \
 CS | Cybersecurity \
 Listen to music 16 hours a day😁.
