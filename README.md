@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## 🚀 I am Hitesh Ganga a wannabe software engineer.
+## 🚀 I am Hitesh Ganga a wannabe Cyber Security Analyst.
 
 Currently a student \
 CS | Cybersecurity \
